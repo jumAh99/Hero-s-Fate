@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aebf1b789478fe54f843c06d7734b134, type: 3}
+  m_Name: DB_ONE
+  m_EditorClassIdentifier: 
+  charList:
+  - nameChamp: ARCHER
+    prefabChamp: {fileID: 3620963800374527598, guid: b94815c49760a5c4bae99c91ca549efe, type: 3}
+    champNumber: 0
+  - nameChamp: MAGE
+    prefabChamp: {fileID: 1204678849155849907, guid: 30c862d0ec5168c4f8f92879962c416e, type: 3}
+    champNumber: 1
+  - nameChamp: WARRIOR
+    prefabChamp: {fileID: 6380393389526495951, guid: def659b37b57b854ca467821d45dabd6, type: 3}
+    champNumber: 2

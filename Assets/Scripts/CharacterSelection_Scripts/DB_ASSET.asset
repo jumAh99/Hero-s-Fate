@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3104c5f392b1df64492a5a80f84b10e7, type: 3}
+  m_Name: DB_ASSET
+  m_EditorClassIdentifier: 
+  charList:
+  - CHARACTER_NAME: MAGE
+    GAME_OBJ: {fileID: 21300000, guid: 2799989554b2b434a8e6cecbd3653b5a, type: 3}
+  - CHARACTER_NAME: ARCHER
+    GAME_OBJ: {fileID: 21300000, guid: 57a5f80773302c8418d9033e9bb82c97, type: 3}
+  - CHARACTER_NAME: WARRIOR
+    GAME_OBJ: {fileID: 21300000, guid: 7440f8d45838193488b94af673d63b05, type: 3}

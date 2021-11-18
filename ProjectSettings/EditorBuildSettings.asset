@@ -15,11 +15,11 @@ EditorBuildSettings:
     path: Assets/Scenes/GameScene.unity
     guid: 5974e16fa60db0943ab53a3046ff9fba
   - enabled: 1
-    path: Assets/Scenes/GameSceneMultiplayer.unity
-    guid: 238449166e083494d89e258aef5da48b
-  - enabled: 1
     path: Assets/Scenes/WinScene.unity
     guid: 1f57b194edd3c3e4cb1100d0f438f8fd
+  - enabled: 1
+    path: Assets/Scenes/GameSceneMultiplayer.unity
+    guid: 536e935bbfe59eb43ad4ce858b5d58b6
   - enabled: 1
     path: Assets/Scenes/LoseScene.unity
     guid: d34c3fb0c606eca449e1f119937bab2e
@@ -27,9 +27,12 @@ EditorBuildSettings:
     path: Assets/Scenes/CharSelectMultiplayer.unity
     guid: 22bd5ff13c9c52c41ab05da0988e64f5
   - enabled: 1
-    path: Assets/Scenes/Lobby.unity
+    path: Assets/Scenes/ConnectingScene.unity
     guid: 30d9367b4897aba43a5cf76e289daede
   - enabled: 1
-    path: Assets/Scenes/CreateUserName.unity
-    guid: 64226500dae3b1444a3f7d3a839c56f6
+    path: Assets/Scenes/WaitingScene.unity
+    guid: a897d63082757bf48a57fb725be3a0f1
+  - enabled: 1
+    path: Assets/Scenes/LobbyScene.unity
+    guid: 1a780888ee9de0847b0716fb88185be1
   m_configObjects: {}

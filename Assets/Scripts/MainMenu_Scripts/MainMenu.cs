@@ -11,7 +11,7 @@ public class MainMenu : MonoBehaviour
     }
     //go to multiplayer
     public void OnMultiplayer(){
-        SceneManager.LoadScene("CreateUserName");
+        SceneManager.LoadScene("ConnectingScene");
     }
     //close application 
     public void quitGame(){

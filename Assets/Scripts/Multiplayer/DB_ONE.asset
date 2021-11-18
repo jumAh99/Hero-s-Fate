@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: DB_ONE
   m_EditorClassIdentifier: 
   charList:
-  - nameChamp: ARCHER
-    prefabChamp: {fileID: 3620963800374527598, guid: b94815c49760a5c4bae99c91ca549efe, type: 3}
+  - nameChamp: MAGE_MULTI
+    prefabChamp: {fileID: 4485713394140200312, guid: 67214e29a2c92d9438b28695ee43dc8e, type: 3}
     champNumber: 0
-  - nameChamp: MAGE
-    prefabChamp: {fileID: 1204678849155849907, guid: 30c862d0ec5168c4f8f92879962c416e, type: 3}
+  - nameChamp: ARCHER_MULTI
+    prefabChamp: {fileID: 5836946846825520003, guid: 5fbb73c1530679142bdb1f97211d45d3, type: 3}
     champNumber: 1
-  - nameChamp: WARRIOR
-    prefabChamp: {fileID: 6380393389526495951, guid: def659b37b57b854ca467821d45dabd6, type: 3}
+  - nameChamp: WARRIOR_MULTI
+    prefabChamp: {fileID: 5204517199667110583, guid: 52366dbd0d65d364ea3e78e568cca67a, type: 3}
     champNumber: 2
